@@ -2157,8 +2157,8 @@ local SettingsTab = Window:AddTab("Settings") do
     Window:BuildSettingsElement(SettingsTab)
 
     local CreditsSection = SettingsTab:AddElementSection("Credits") do
-        CreditsSection:AddLabel("mstudio45 - Grab Banana/Jeff and Twerk Emote")
-        CreditsSection:AddLabel("upio - ESP and FE Anti Seek")
+        CreditsSection:AddLabel("Ivan - Grab Banana/Jeff and Twerk Emote")
+        CreditsSection:AddLabel("Ivan - ESP and FE Anti Seek")
     end
 end
 
